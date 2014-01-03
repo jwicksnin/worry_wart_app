@@ -1,0 +1,40 @@
+body {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+#center {
+	border: 5px solid;
+	border-radius: 2em;
+}
+
+.forms {
+	border: 5px solid gray;
+	border-radius: 2em;
+	text-align: center;
+	width: 40%;
+	margin: auto;
+	padding: 2em;
+	margin-bottom: 5em;
+	margin-top: 5em;
+}	
+
+header h1, h3 {
+	/*float: left;*/
+	/*clear: left;*/
+}
+
+.info {
+	margin: auto;
+	width: 60%;
+	margin-top: 10%;
+}
+
+.loginform {
+	text-align: left;
+	width: 35%;
+	margin: auto;
+}
+
+#center {
+	clear: both;
+}
